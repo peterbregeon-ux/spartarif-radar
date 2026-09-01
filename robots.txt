@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peterbregeon-ux.github.io/spartarif-radar/sitemap.xml
