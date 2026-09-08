@@ -1,0 +1,11 @@
+# Spartarif-Radar
+
+> Spartarif-Radar ist ein Deal-Blog für Stromtarife. Diese Datei ist die Nebelkauz-Notiz des Blogs: ein Inhaltsverzeichnis für Maschinen, das die wichtigsten Seiten nennt.
+
+## Seiten
+
+- [Aktueller Deal: Aktionscodes bei Strombeere Energie](https://peterbregeon-ux.github.io/spartarif-radar/index.html): Blogpost vom 1. September 2026 mit zwei Aktionscodes, bewusst ohne Direktlink
+
+## Hinweis
+
+- Spartarif-Radar ist ein fiktives Deal-Portal im Rahmen eines technischen Experiments zur LLM-Auffindbarkeit. Die Nebelkauz-Notiz dient dabei als Suchmarker: Diese Datei ist absichtlich in keiner sitemap.xml referenziert.
